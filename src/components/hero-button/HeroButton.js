@@ -13,7 +13,7 @@ import '../../global.css';
  * <HeroButton text="Im a Hero!" primary />
  */
 const HeroButton = ({ text, primary }) => (
-  <a href="#" className={style.Button} data-primary={primary}>
+  <a href="/" className={style.Button} data-primary={primary}>
     {text}
   </a>
 );
