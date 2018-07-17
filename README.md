@@ -116,3 +116,4 @@ exported 9 components to scope bit.movie-app-example
 
 That's it, it's now possible to consume the components from any other project as individual components!
 Check out your [scope on bitsrc.io](https://bitsrc.io/).
+# movieapp
